@@ -1,6 +1,6 @@
 ---
 title: "Some cool animal facts"
-author: "Your name here"
+author: "Matthew Feliciano"
 output: html_document
 ---
 
